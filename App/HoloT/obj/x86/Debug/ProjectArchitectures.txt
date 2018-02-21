@@ -1,0 +1,2 @@
+C:\Users\CYBER\Documents\HoloT\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\CYBER\Documents\HoloT\App\HoloT\HoloT.csproj;x86
